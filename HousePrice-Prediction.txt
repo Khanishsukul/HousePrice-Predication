@@ -1,0 +1,12 @@
+HOUSE PRICE PREDICTION
+
+UTUBE - https://youtu.be/Wqmtf9SA_kk?si=RKtqY-GWhbmFK6RS
+Kaggle - https://www.kaggle.com/datasets/camnugent/california-housing-prices
+GitHub(Mine) - https://github.com/Khanishsukul/HousePrice-Predication
+
+
+In this we are gonna predict the house price in califonia
+The methods used is :
+    - Future Engineering
+    - Linear Regression Model
+    - Random Forest Model
